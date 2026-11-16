@@ -15,5 +15,5 @@
 
 ## 说明
 
-- 这里是初始化提交，只包含 README 与 .gitignore，方便 agent 有可用的分支基线。
+- 这里是第一个工单，只包含 README 与 .gitignore，方便 agent 有可用的分支基线。
 - 面板地址与启动方式见宿主机的 `dsh-up.sh`。
